@@ -24,7 +24,7 @@
 
 - 📫 **How to reach me:**  
   - Email: [waithakacynthia17@gmail.com](mailto:waithakacynthia17@gmail.com)  
-  - Phone: [+254 115 999 908](tel:+254115999908)  
+  - Phone: [+254 115 999 908](tel:+254111599908)  
 
 - 😄 **Pronouns:** She/Her  
 
