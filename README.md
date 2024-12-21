@@ -23,7 +23,7 @@
   - Tech projects that tackle **real-world problems** and promote **innovation**  
 
 - 📫 **How to reach me:**  
-  - Email: [gathonicynthia@gmail.com](mailto:gathonicynthia@gmail.com)  
+  - Email: [waithakacynthia17@gmail.com](mailto:waithakacynthia17@gmail.com)  
   - Phone: [+254 115 999 908](tel:+254115999908)  
 
 - 😄 **Pronouns:** She/Her  
@@ -36,7 +36,7 @@
 ### 🌐 Let's Connect  
 
 <p align="center">
-    <a href="mailto:gathonicynthia@gmail.com" target="_blank">
+    <a href="mailto:waithakacynthia17@gmail.com" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/gathoncynthia/" target="_blank">
