@@ -42,11 +42,11 @@
     <a href="https://www.linkedin.com/in/gathoncynthia/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
-    <a href="https://www.linkedin.com/in/gathoncynthia/" target="_blank">
+    <a href="https://www.instagram.com/in/gathoncynthia/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" />
     </a>
-     <a href="https://www.linkedin.com/in/gathoncynthia/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="facebook" />
+     <a href="https://www.instagram.com/in/gathoncynthia/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram" />
     </a>
     
 </p>
