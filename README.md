@@ -46,7 +46,7 @@
         <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" />
     </a>
      <a href="https://www.linkedin.com/in/gathoncynthia/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/instergram.png" alt="facebook" />
+        <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="facebook" />
     </a>
     
 </p>
