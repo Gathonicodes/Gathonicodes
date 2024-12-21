@@ -39,7 +39,7 @@
     <a href="mailto:gathonicynthia@gmail.com" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <a href="https://www.linkedin.com/in/gathoncynthia/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
 </p>
